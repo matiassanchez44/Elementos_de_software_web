@@ -1,0 +1,2 @@
+Quedaria en rojo todo lo que este dentro del <aside class="links">, incluyendo los enlaces <a>.
+Esto pasa porque en CSS el color es una propiedad que se hereda, entonces si al <aside> le ponemos el texto en rojo, todos los elementos que estan dentro como parrafos o enlaces, tambien toman ese color automaticamente, a menos que tengan un estilo diferente definido aparte
